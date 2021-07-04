@@ -1,0 +1,20 @@
+/* for tablet */
+@media all and (max-width: 1200px) {
+	.header-right {
+		margin-right: 20px;
+	}
+	.header-right a {
+		padding: 0 20px;
+	}
+}
+
+/* for handphone */
+
+@media all and (max-width: 670px) {
+	.header-right {
+		margin-right: 30px;
+	}
+	.header-right a {
+		padding: 0 15px;
+	}
+}
