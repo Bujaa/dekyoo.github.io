@@ -21,20 +21,7 @@
 		padding-left: 5px;
 	}
 }
-@media all and (max-width: 370px) {
-	.header-right {
-		margin-right: 15px;
-		margin-left: 15px;
-	}
-	.header-right a {
-		padding: 0 5px;
-		font-size: 14px;
-	}
-	.header-left a {
-		padding: 0;
-		font-size: 16px;
-	}
-}
+
 
 
 		
