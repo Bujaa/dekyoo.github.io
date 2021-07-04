@@ -22,12 +22,4 @@
 		font-size: 20px;
 	}
 }
-@media all and (max-width: 370px) {
-	.header-right a {
-		padding: 0 5px;
-	}
-	.header-left a {
-		padding-left: 10px;
-		font-size: 20px;
-	}
 		
