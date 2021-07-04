@@ -12,7 +12,7 @@
 
 @media all and (max-width: 670px) {
 	.header-right {
-		margin-right: 10px;
+		margin-right: 15px;
 	}
 	.header-right a {
 		padding: 0 10px;
