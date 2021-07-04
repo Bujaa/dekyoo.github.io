@@ -25,7 +25,6 @@
 @media all and (max-width: 370px) {
 	.header-right {
 		margin-right: 5px;
-		top: 0;
 	}
 	.header-right a {
 		padding: 0 5px;
