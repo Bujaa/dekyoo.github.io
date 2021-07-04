@@ -17,6 +17,9 @@
 	.header-right a {
 		padding: 0 5px;
 	}
+	.header-left a {
+		font-size: 18px;
+		padding-left: 5px;
 }
 @media all and (max-width: 370px) {
 	.header-right {
